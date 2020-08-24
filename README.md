@@ -1,2 +1,3 @@
-# JavaCore
-Java Core ( PRO192 )
+# JavaCore FPT PRO192
+
+Code in class / soucre for PE
