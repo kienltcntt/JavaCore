@@ -1,0 +1,16 @@
+public class Main {
+
+    public static void main(String[] args) {
+        FindNumberInArray x = new FindNumberInArray();
+
+        System.out.print("Display all  ");
+        x.display();
+        x.min(); 
+        System.out.print("Sort first 6 elements: ");
+        x.sapxep6sodau(); 
+        System.out.println();
+        System.out.print("Sort : ");
+        x.sapxep();        
+        
+    }   
+}
